@@ -1,4 +1,4 @@
-# DevConnector
+# Developer Connector
 
 > Social network for developers
 
